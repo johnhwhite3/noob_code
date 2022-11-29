@@ -1,5 +1,5 @@
 const noob = {
-    console.log('hey');
-
+    code: console.log('hey')
 }
 
+noob.code();
