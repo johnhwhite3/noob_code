@@ -1,0 +1,15 @@
+* {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+  color: rgb(0, 0, 0);
+}
+
+.title {
+  color: rgb(206, 165, 165);
+}
+
+* {
+  background-color: rgb(197, 33, 33);
+}
